@@ -6,3 +6,5 @@
 ### Terminal: urxvt 
 ### Transparent terminal: gnome-terminal
 ### Bar: tint2
+
+![Space Theme](spacetheme.png)
