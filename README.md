@@ -2,4 +2,4 @@
 
 ## Preview
 ### Space 
-![Space](Space/spacetheme.png)
+![Space theme preview](Space/~/spacetheme.png)
