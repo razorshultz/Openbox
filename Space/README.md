@@ -3,5 +3,6 @@
 ### Openbox theme: Dark-party
 ### GTK theme: Adwaita-dark
 ### Icon theme: candy-icons
-### Terminal: urxvt
+### Terminal: urxvt 
+### Transparent terminal: gnome-terminal
 ### Bar: tint2
