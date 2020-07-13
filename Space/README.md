@@ -1,4 +1,5 @@
 # Space
+![Space Theme](spacetheme.png)
 
 #### Openbox theme: Dark-party
 #### GTK theme: Adwaita-dark
@@ -7,4 +8,3 @@
 #### Transparent terminal: gnome-terminal
 #### Bar: tint2
 
-![Space Theme](spacetheme.png)
